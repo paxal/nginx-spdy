@@ -1,6 +1,8 @@
 nginx-spdy
 ==========
 
+UPDATE : SPDY patch is now part of nginx >= 1.3.15
+
 NGINX Ebuild with SPDY patch
 
 
